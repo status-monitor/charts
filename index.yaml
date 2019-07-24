@@ -3,11 +3,20 @@ entries:
   status-monitor:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-07-24T19:29:32.946153+02:00"
+    created: "2019-07-24T22:02:08.959187+02:00"
+    description: Helm chart for Status Monitor
+    digest: cb2423f5e30d90becf22783071d6768ab7bd7b0423999ddca9eeecd722aeb65b
+    name: status-monitor
+    urls:
+    - https://status-monitor.github.io/charts/status-monitor-0.1.0-r2.tgz
+    version: 0.1.0-r2
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2019-07-24T22:02:08.956513+02:00"
     description: Helm chart for Status Monitor
     digest: f0a5df18816ed4f9ff57366aa660b86e787c3afb1894d952163b108c55d47f5d
     name: status-monitor
     urls:
     - https://status-monitor.github.io/charts/status-monitor-0.1.0-r1.tgz
     version: 0.1.0-r1
-generated: "2019-07-24T19:29:32.943922+02:00"
+generated: "2019-07-24T22:02:08.952086+02:00"
