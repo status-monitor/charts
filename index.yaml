@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   status-monitor:
   - apiVersion: v1
+    appVersion: 0.3.0
+    created: "2019-08-11T14:56:01.418357+02:00"
+    description: Helm chart for Status Monitor
+    digest: d2f2acd436b02b6788618ff53c91a30df39fb1bb1fdad5aaaab5c424177d0f91
+    name: status-monitor
+    urls:
+    - https://status-monitor.github.io/charts/status-monitor-0.3.0-r1.tgz
+    version: 0.3.0-r1
+  - apiVersion: v1
     appVersion: 0.2.0
-    created: "2019-08-10T10:22:51.268542+02:00"
+    created: "2019-08-11T14:56:01.415592+02:00"
     description: Helm chart for Status Monitor
     digest: 0e0ff549f35c63e57ff05bcee72db0602cee009e27f70f47c263485cdd6ab533
     name: status-monitor
@@ -12,7 +21,7 @@ entries:
     version: 0.2.0-r1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-08-10T10:22:51.26631+02:00"
+    created: "2019-08-11T14:56:01.412847+02:00"
     description: Helm chart for Status Monitor
     digest: cb2423f5e30d90becf22783071d6768ab7bd7b0423999ddca9eeecd722aeb65b
     name: status-monitor
@@ -21,11 +30,11 @@ entries:
     version: 0.1.0-r2
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-08-10T10:22:51.264177+02:00"
+    created: "2019-08-11T14:56:01.410476+02:00"
     description: Helm chart for Status Monitor
     digest: f0a5df18816ed4f9ff57366aa660b86e787c3afb1894d952163b108c55d47f5d
     name: status-monitor
     urls:
     - https://status-monitor.github.io/charts/status-monitor-0.1.0-r1.tgz
     version: 0.1.0-r1
-generated: "2019-08-10T10:22:51.259711+02:00"
+generated: "2019-08-11T14:56:01.40501+02:00"
